@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="HHD Prototype Request">c591c06dd43722107f449e74e183f9bd</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-04 22:44:15</sys_created_on>
+        <sys_id>c4d10c6dd43722107f449e74e183f902</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.HHD Prototype Request</sys_name>
+        <sys_package display_value="HHD" source="x_snpi_hhd">230cd31dd47322107f449e74e183f9ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HHD">230cd31dd47322107f449e74e183f9ed</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_c4d10c6dd43722107f449e74e183f902</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-04 22:44:15</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

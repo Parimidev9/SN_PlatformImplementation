@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_snpi_hhd.Github</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>Github</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-09 20:42:59</sys_created_on>
+        <sys_id>ecf5d98f14f322107f44fac2d94a6ab9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snpi_hhd.Github</sys_name>
+        <sys_package display_value="HHD" source="x_snpi_hhd">230cd31dd47322107f449e74e183f9ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HHD">230cd31dd47322107f449e74e183f9ed</sys_scope>
+        <sys_update_name>sys_alias_ecf5d98f14f322107f44fac2d94a6ab9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-09 20:42:59</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HHD">230cd31dd47322107f449e74e183f9ed</application>
+        <file_path/>
+        <instance_id>b4bc214047bb625045bb473c326d43e9</instance_id>
+        <instance_name>nowlearning-nlinst03218221-7kqfw-0001</instance_name>
+        <name>sys_alias_ecf5d98f14f322107f44fac2d94a6ab9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_snpi_hhd.Github</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>Github</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-09 20:42:59</sys_created_on><sys_id>ecf5d98f14f322107f44fac2d94a6ab9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snpi_hhd.Github</sys_name><sys_package display_value="HHD" source="x_snpi_hhd">230cd31dd47322107f449e74e183f9ed</sys_package><sys_policy/><sys_scope display_value="HHD">230cd31dd47322107f449e74e183f9ed</sys_scope><sys_update_name>sys_alias_ecf5d98f14f322107f44fac2d94a6ab9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-09 20:42:59</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>1075072416</payload_hash>
+        <record_name>x_snpi_hhd.Github</record_name>
+        <reverted_from/>
+        <source>230c975dd47322107f449e74e183f968</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-09 20:42:59</sys_created_on>
+        <sys_id>5006d98f14f322107f44fac2d94a6a4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1993037acc40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-09 20:42:59</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>5406d98fa7f322100f7597c4f95f9b49</update_guid>
+        <update_guid_history>5406d98fa7f322100f7597c4f95f9b49:1075072416</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-09 20:47:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>199e07beff2047b0a0fe0b206ca3a100</sys_id>
+        <sys_metadata>ecf5d98f14f322107f44fac2d94a6ab9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snpi_hhd.Github</sys_name>
+        <sys_package display_value="HHD" source="x_snpi_hhd">230cd31dd47322107f449e74e183f9ed</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HHD">230cd31dd47322107f449e74e183f9ed</sys_scope>
+        <sys_scope_delete display_value="">4109bc100fc345baab90690e27f79284</sys_scope_delete>
+        <sys_update_name>sys_alias_ecf5d98f14f322107f44fac2d94a6ab9</sys_update_name>
+        <sys_update_version display_value="sys_alias_ecf5d98f14f322107f44fac2d94a6ab9">5006d98f14f322107f44fac2d94a6a4a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-09 20:47:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snpi_hhd.hhd_admin" name="x_snpi_hhd.hhd_admin">64bc531dd47322107f449e74e183f9c9</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-04 20:02:05</sys_created_on>
+        <sys_id>28bcd39dd47322107f449e74e183f920</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>64bc531dd47322107f449e74e183f9c9</sys_name>
+        <sys_package display_value="HHD" source="x_snpi_hhd">230cd31dd47322107f449e74e183f9ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HHD">230cd31dd47322107f449e74e183f9ed</sys_scope>
+        <sys_update_name>sys_embedded_help_role_28bcd39dd47322107f449e74e183f920</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-04 20:02:05</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
